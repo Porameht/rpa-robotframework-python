@@ -1,0 +1,779 @@
+{"level":30,"time":"2022-05-21T14:42:08.366Z","pid":141907,"hostname":"kali","msg":"Listening on 43427"}
+{"level":30,"time":"2022-05-21T14:42:08.395Z","pid":141907,"hostname":"kali","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-05-21T14:42:08.395Z","pid":141907,"hostname":"kali","msg":"currentBrowser: undefined"}
+{"level":30,"time":"2022-05-21T14:42:08.561Z","pid":141907,"hostname":"kali","msg":"Changed active context"}
+{"level":30,"time":"2022-05-21T14:42:08.617Z","pid":141907,"hostname":"kali","msg":"Video path: undefined"}
+{"level":30,"time":"2022-05-21T14:42:08.618Z","pid":141907,"hostname":"kali","msg":"Changed active page"}
+{"level":30,"time":"2022-05-21T14:42:10.664Z","pid":141907,"hostname":"kali","msg":"End of node method newPage"}
+{"level":30,"time":"2022-05-21T14:42:10.679Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:10.682Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#username in page."}
+{"level":30,"time":"2022-05-21T14:42:10.792Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:10.795Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:10.795Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#password in page."}
+{"level":30,"time":"2022-05-21T14:42:10.862Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:10.864Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:10.865Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Log in in page."}
+{"level":30,"time":"2022-05-21T14:42:10.917Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:11.825Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:11.825Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:13.502Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:13.505Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:13.505Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:13.545Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:13.550Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:13.550Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:13.593Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:13.597Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:13.598Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:13.983Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:13.988Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:13.988Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:14.257Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:14.259Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.259Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:14.319Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.322Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.322Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:14.353Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.355Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.355Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:14.386Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.388Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:14.388Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:14.687Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:14.689Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:14.690Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:14.860Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:14.880Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.881Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:14.984Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.985Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:14.985Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:15.013Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.015Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.016Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:15.053Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.056Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:15.057Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:15.286Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:15.288Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:15.288Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:15.502Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:15.505Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.505Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:15.578Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.579Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.579Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:15.610Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.612Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.612Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:15.639Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:15.641Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:15.641Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:15.958Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:15.960Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:15.960Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:16.173Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:16.180Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.181Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:16.302Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.304Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.305Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:16.337Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.339Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.339Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:16.370Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.372Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:16.372Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:16.601Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:16.603Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:16.603Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:16.733Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:16.735Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.735Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:16.824Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.826Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.826Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:16.859Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.861Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.862Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:16.893Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:16.895Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:16.896Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:17.145Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:17.146Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:17.146Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:17.318Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:17.323Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.324Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:17.431Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.433Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.433Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:17.473Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.474Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.475Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:17.506Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.508Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:17.508Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:17.744Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:17.746Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:17.746Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:17.973Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:17.977Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:17.978Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:18.055Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.058Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.058Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:18.085Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.087Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.087Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:18.110Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.111Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:18.112Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:18.335Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:18.336Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:18.337Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:18.458Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:18.461Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.461Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:18.538Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.540Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.540Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:18.577Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.579Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.579Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:18.613Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:18.614Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:18.615Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:18.897Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:18.899Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:18.900Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:19.130Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:19.134Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.134Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:19.224Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.226Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.226Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:19.273Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.274Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.274Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:19.308Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.310Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:19.310Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:19.576Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:19.578Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:19.578Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:19.751Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:19.754Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.754Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:19.860Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.862Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.862Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:19.892Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.894Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.894Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:19.925Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:19.927Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:19.927Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:20.177Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:20.179Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:20.179Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:20.346Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:20.351Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.351Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:20.456Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.458Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.458Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:20.480Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.481Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.481Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:20.503Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.504Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:20.504Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:20.708Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:20.710Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:20.710Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:20.966Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:20.973Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:20.973Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:21.086Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.088Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.088Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:21.118Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.120Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.120Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:21.143Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.144Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:21.144Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:21.358Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:21.360Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:21.360Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:21.589Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:21.593Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.593Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:21.641Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.642Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.642Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:21.668Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.670Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.670Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:21.694Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:21.695Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:21.696Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:21.909Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:21.911Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:21.911Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:22.125Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:22.131Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.131Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:22.212Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.214Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.214Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:22.244Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.246Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.246Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:22.280Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.282Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:22.282Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:22.547Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:22.549Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:22.549Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:22.671Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:22.674Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.674Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:22.790Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.792Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.792Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:22.823Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.825Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.825Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:22.854Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:22.855Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:22.855Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:23.073Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:23.076Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:23.076Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:23.212Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:23.215Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.215Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:23.295Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.297Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.298Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:23.329Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.331Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.331Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:23.358Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.359Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:23.359Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:23.583Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:23.585Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:23.585Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:23.737Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:23.743Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.744Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:23.846Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.847Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.847Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:23.866Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.868Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.868Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:23.891Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:23.893Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:23.893Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:24.095Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:24.096Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:24.096Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:24.300Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:24.303Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.303Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:24.442Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.444Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.444Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:24.519Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.522Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.522Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:24.591Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:24.595Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:24.595Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:24.850Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:24.852Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:24.852Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:25.023Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:25.028Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.028Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:25.148Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.150Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.150Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:25.173Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.174Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.175Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:25.196Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.198Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:25.198Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:25.400Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:25.402Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:25.402Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:25.644Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:25.646Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.646Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:25.701Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.703Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.703Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:25.741Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.742Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.743Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:25.769Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:25.771Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:25.771Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:26.035Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:26.037Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:26.037Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:26.195Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:26.201Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.201Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:26.292Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.293Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.293Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:26.317Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.318Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.318Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:26.347Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.349Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:26.349Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:26.609Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:26.611Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:26.611Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:26.779Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:26.783Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.783Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:26.892Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.893Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.894Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:26.918Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.919Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.919Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:26.941Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:26.942Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:26.942Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:27.137Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:27.139Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:27.139Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:27.280Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:27.284Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.284Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:27.405Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.407Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.407Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:27.452Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.454Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.454Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:27.480Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.481Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:27.481Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:27.724Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:27.726Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:27.726Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:27.856Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:27.859Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.859Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:27.943Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.945Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.945Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:27.969Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.971Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:27.971Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:28.000Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.003Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:28.003Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:28.243Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:28.245Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:28.245Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:28.416Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:28.422Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.422Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:28.521Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.522Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.523Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:28.549Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.553Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.553Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:28.588Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:28.590Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:28.590Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:28.887Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:28.890Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:28.890Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:29.053Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:29.056Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.056Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:29.129Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.131Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.131Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:29.160Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.162Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.162Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:29.189Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.191Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:29.191Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:29.427Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:29.429Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:29.429Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:29.633Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:29.635Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.636Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:29.726Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.727Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.728Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:29.763Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.765Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.766Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:29.803Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:29.805Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:29.805Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:30.011Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:30.014Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:30.014Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:30.188Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:30.193Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.193Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:30.281Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.283Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.283Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:30.308Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.309Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.309Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:30.331Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.333Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:30.333Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:30.529Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:30.531Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:30.531Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:30.720Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:30.725Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.725Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:30.838Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.839Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.839Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:30.868Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.869Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.869Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:30.894Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:30.896Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:30.896Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:31.127Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:31.128Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:31.129Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:31.279Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:31.281Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.282Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:31.390Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.392Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.392Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:31.428Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.429Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.429Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:31.458Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.459Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:31.460Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:31.692Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:31.694Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:31.694Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:31.854Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:31.860Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.861Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:31.989Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.991Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:31.991Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:32.016Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.017Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.018Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:32.041Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.042Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:32.042Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:32.299Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:32.301Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:32.301Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:32.490Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:32.496Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.496Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:32.686Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.688Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.688Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:32.730Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.732Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.732Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:32.758Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:32.760Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:32.760Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:33.028Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:33.030Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:33.030Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:33.178Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:33.180Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.180Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:33.256Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.257Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.258Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:33.286Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.287Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.287Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:33.311Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.312Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:33.312Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:33.506Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:33.508Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:33.508Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:33.681Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:33.683Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.683Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:33.778Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.781Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.781Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:33.818Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.820Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.820Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:33.853Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:33.855Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:33.855Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:34.110Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:34.112Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:34.112Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:34.224Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:34.226Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.226Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:34.323Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.325Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.325Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:34.359Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.361Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.361Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:34.393Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.394Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:34.394Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:34.639Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:34.641Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:34.641Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:34.795Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:34.798Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.798Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:34.904Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.906Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.906Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:34.931Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.933Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.933Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:34.961Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:34.962Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:34.963Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:35.212Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:35.214Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:35.214Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:35.386Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:35.392Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.392Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:35.527Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.529Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.529Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:35.574Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.576Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.576Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:35.613Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:35.616Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:35.616Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:35.944Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:35.946Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:35.946Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:36.181Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:36.184Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.185Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:36.329Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.332Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.332Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:36.410Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.411Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.412Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:36.456Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:36.458Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:36.458Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:36.907Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:36.909Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:36.909Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:37.023Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:37.025Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.026Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:37.162Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.164Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.164Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:37.213Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.215Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.216Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:37.243Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:37.245Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:37.245Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:37.949Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:37.956Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:37.956Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:38.196Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:38.204Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.204Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:38.507Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.509Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.510Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:38.629Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.631Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.631Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:38.796Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:38.799Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:38.799Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:39.142Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:39.144Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:39.144Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:39.275Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:39.277Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.278Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:39.436Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.438Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.438Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:39.468Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.470Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.471Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:39.500Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.505Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:39.505Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:39.783Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:39.787Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:39.788Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:39.946Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:39.949Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:39.949Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:40.036Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.037Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.037Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:40.064Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.065Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.065Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:40.094Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.096Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:40.096Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:40.344Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:40.345Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:40.345Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:40.473Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:40.476Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.476Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:40.580Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.581Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.582Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:40.613Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.615Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.615Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:40.657Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:40.659Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:40.659Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:40.993Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:40.995Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:40.995Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:41.120Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:41.123Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.123Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:41.266Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.268Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.269Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:41.303Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.305Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.305Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:41.357Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.360Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:41.360Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:41.693Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:41.695Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:41.695Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:41.849Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:41.852Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:41.852Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:42.035Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.036Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.037Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:42.077Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.079Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.080Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:42.160Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.162Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:42.162Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:42.730Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:42.732Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:42.733Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:42.902Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:42.908Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.908Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:42.997Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:42.999Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.000Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:43.033Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.034Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.034Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:43.063Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.065Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:43.065Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:43.276Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:43.278Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:43.278Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:43.438Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:43.441Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.442Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:43.511Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.513Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.513Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:43.536Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.537Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.537Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:43.566Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:43.568Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:43.568Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:43.790Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:43.793Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:43.793Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:44.004Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:44.008Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.008Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:44.126Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.127Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.127Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:44.156Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.158Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.158Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:44.185Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.187Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:44.187Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:44.387Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:44.388Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:44.388Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:44.564Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:44.568Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.568Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#firstname in page."}
+{"level":30,"time":"2022-05-21T14:42:44.718Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.719Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.719Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#lastname in page."}
+{"level":30,"time":"2022-05-21T14:42:44.752Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.753Z","pid":141907,"hostname":"kali","msg":"Start of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.754Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salesresult in page."}
+{"level":30,"time":"2022-05-21T14:42:44.778Z","pid":141907,"hostname":"kali","msg":"End of node method typeText"}
+{"level":30,"time":"2022-05-21T14:42:44.780Z","pid":141907,"hostname":"kali","msg":"Start of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:44.780Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#salestarget in page."}
+{"level":30,"time":"2022-05-21T14:42:44.986Z","pid":141907,"hostname":"kali","msg":"End of node method selectOption"}
+{"level":30,"time":"2022-05-21T14:42:44.987Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:44.987Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Submit in page."}
+{"level":30,"time":"2022-05-21T14:42:45.164Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:45.168Z","pid":141907,"hostname":"kali","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-05-21T14:42:45.169Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=div.sales-summary in page."}
+{"level":30,"time":"2022-05-21T14:42:45.357Z","pid":141907,"hostname":"kali","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-05-21T14:42:45.360Z","pid":141907,"hostname":"kali","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2022-05-21T14:42:45.360Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with css=#sales-results in page."}
+{"level":30,"time":"2022-05-21T14:42:45.381Z","pid":141907,"hostname":"kali","msg":"Retrieved dom property for element css=#sales-results containing <div id=\"sales-results\"><table class=\"table table-dark table-striped\"><thead><tr><th width=\"24%\" scope=\"col\">Name</th><th width=\"24%\" scope=\"col\">Target</th><th width=\"24%\" scope=\"col\">Result</th><th width=\"24%\" scope=\"col\">Difference</th></tr></thead><tbody><tr><td>Vincenty Stannering</td><td>$30,000</td><td>$109,884</td><td>$79,884</td></tr><tr><td>Petronille Lesor</td><td>$85,000</td><td>$54,805</td><td>$-30,195</td></tr><tr><td>Abra Heap</td><td>$100,000</td><td>$5,937</td><td>$-94,063</td></tr><tr><td>Dorie Batistelli</td><td>$95,000</td><td>$42,450</td><td>$-52,550</td></tr><tr><td>Valenka Tantrum</td><td>$65,000</td><td>$137,708</td><td>$72,708</td></tr><tr><td>Regina Gurling</td><td>$15,000</td><td>$86,186</td><td>$71,186</td></tr><tr><td>Hortensia Leal</td><td>$70,000</td><td>$29,530</td><td>$-40,470</td></tr><tr><td>Jenine Kidby</td><td>$60,000</td><td>$133,576</td><td>$73,576</td></tr><tr><td>Rufus Bewlie</td><td>$85,000</td><td>$119,258</td><td>$34,258</td></tr><tr><td>Gaylord Uebel</td><td>$90,000</td><td>$27,872</td><td>$-62,128</td></tr><tr><td>Jemie Tunnacliffe</td><td>$50,000</td><td>$64,130</td><td>$14,130</td></tr><tr><td>Donia Messenbird</td><td>$75,000</td><td>$52,436</td><td>$-22,564</td></tr><tr><td>Bliss Burgess</td><td>$35,000</td><td>$138,542</td><td>$103,542</td></tr><tr><td>Milena Gudeman</td><td>$45,000</td><td>$24,287</td><td>$-20,713</td></tr><tr><td>Flossie Gurr</td><td>$85,000</td><td>$111,068</td><td>$26,068</td></tr><tr><td>Cathleen Tinklin</td><td>$35,000</td><td>$113,898</td><td>$78,898</td></tr><tr><td>Alikee Kohtler</td><td>$15,000</td><td>$141,102</td><td>$126,102</td></tr><tr><td>Ameline Olivello</td><td>$80,000</td><td>$60,101</td><td>$-19,899</td></tr><tr><td>Claus Bawcock</td><td>$25,000</td><td>$140,602</td><td>$115,602</td></tr><tr><td>Jelene Pridden</td><td>$35,000</td><td>$91,489</td><td>$56,489</td></tr><tr><td>Tiffany Emerine</td><td>$50,000</td><td>$124,313</td><td>$74,313</td></tr><tr><td>Ariadne Kiessel</td><td>$70,000</td><td>$86,637</td><td>$16,637</td></tr><tr><td>Abbe Aldcorn</td><td>$60,000</td><td>$97,489</td><td>$37,489</td></tr><tr><td>Bibi Rosita</td><td>$30,000</td><td>$94,131</td><td>$64,131</td></tr><tr><td>Thurstan Karus</td><td>$50,000</td><td>$131,244</td><td>$81,244</td></tr><tr><td>Madelyn Sire</td><td>$60,000</td><td>$66,825</td><td>$6,825</td></tr><tr><td>Christy Iwaszkiewicz</td><td>$100,000</td><td>$91,465</td><td>$-8,535</td></tr><tr><td>Mahalia Goodee</td><td>$45,000</td><td>$46,997</td><td>$1,997</td></tr><tr><td>Florence Mundow</td><td>$10,000</td><td>$122,953</td><td>$112,953</td></tr><tr><td>Isaac Asimov</td><td>$65,000</td><td>$118,852</td><td>$53,852</td></tr><tr><td>Mickie Linbohm</td><td>$10,000</td><td>$80,516</td><td>$70,516</td></tr><tr><td>Emyle O'Driscole</td><td>$10,000</td><td>$70,981</td><td>$60,981</td></tr><tr><td>Devi Oag</td><td>$10,000</td><td>$140,919</td><td>$130,919</td></tr><tr><td>Myrtle Puddle</td><td>$10,000</td><td>$22,729</td><td>$12,729</td></tr><tr><td>Casar Kubek</td><td>$100,000</td><td>$143,750</td><td>$43,750</td></tr><tr><td>Nathanil Bragg</td><td>$35,000</td><td>$100,336</td><td>$65,336</td></tr><tr><td>Fred Mengoni</td><td>$5,000</td><td>$131,725</td><td>$126,725</td></tr><tr><td>Anabella Blindermann</td><td>$85,000</td><td>$43,564</td><td>$-41,436</td></tr><tr><td>Donnamarie Watts</td><td>$85,000</td><td>$25,924</td><td>$-59,076</td></tr><tr><td>Antoni Degoe</td><td>$75,000</td><td>$106,991</td><td>$31,991</td></tr><tr><td>Belinda Blumenthal</td><td>$70,000</td><td>$115,410</td><td>$45,410</td></tr><tr><td>Lelah Yewdale</td><td>$100,000</td><td>$122,695</td><td>$22,695</td></tr><tr><td>Pearline Fenton</td><td>$35,000</td><td>$78,556</td><td>$43,556</td></tr><tr><td>Ahmed Vasnetsov</td><td>$60,000</td><td>$50,211</td><td>$-9,789</td></tr><tr><td>Ninnette Heinssen</td><td>$25,000</td><td>$63,808</td><td>$38,808</td></tr><tr><td>Yoko Flecknell</td><td>$50,000</td><td>$139,701</td><td>$89,701</td></tr><tr><td>Jocelyn Thomsson</td><td>$95,000</td><td>$99,354</td><td>$4,354</td></tr><tr><td>Dallon Seals</td><td>$15,000</td><td>$61,456</td><td>$46,456</td></tr><tr><td>Conte Mascetti</td><td>$35,000</td><td>$141,182</td><td>$106,182</td></tr><tr><td>David Heazel</td><td>$30,000</td><td>$80,193</td><td>$50,193</td></tr></tbody></table></div>"}
+{"level":30,"time":"2022-05-21T14:42:45.381Z","pid":141907,"hostname":"kali","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2022-05-21T14:42:45.497Z","pid":141907,"hostname":"kali","msg":"Start of node method click"}
+{"level":30,"time":"2022-05-21T14:42:45.498Z","pid":141907,"hostname":"kali","msg":"Strict mode is enabled, find Locator with text=Log out in page."}
+{"level":30,"time":"2022-05-21T14:42:45.523Z","pid":141907,"hostname":"kali","msg":"End of node method click"}
+{"level":30,"time":"2022-05-21T14:42:45.525Z","pid":141907,"hostname":"kali","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-05-21T14:42:45.529Z","pid":141907,"hostname":"kali","msg":"Removed page=455445ae-d35b-490d-923d-09d519c4ef96 from context=0ee5edfb-d294-484b-81b0-330cf8e848f7 page stack"}
+{"level":30,"time":"2022-05-21T14:42:45.562Z","pid":141907,"hostname":"kali","msg":"End of node method closeAllBrowsers"}
