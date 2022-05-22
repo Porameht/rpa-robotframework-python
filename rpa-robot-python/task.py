@@ -1,7 +1,7 @@
 # Robot to enter weekly sales data into the RobotSpareBin Industries Intranet.
 
 import os
-from Browser import Browser
+from RPA import Browser
 from Browser.utils.data_types import SelectAttribute
 from RPA.Excel.Files import Files
 from RPA.HTTP import HTTP
@@ -76,7 +76,6 @@ def main():
     finally:
         log_out()
         browser.playwright.close()
-
 
 if __name__ == "__main__":
     main()
